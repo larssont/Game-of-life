@@ -1,4 +1,4 @@
-# Game-of-life
+# Game of Life
 Conway's Game of Life made in Java using JavaFX.
 
 
